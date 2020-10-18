@@ -1,1 +1,1 @@
-function multiply()
+function divide()
